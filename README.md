@@ -1,4 +1,6 @@
-apo P110 Enchufe tp-link
+Enchufe tp-link
+
+Tapo P110
 
 Por Paco Aldarias
 
@@ -14,6 +16,6 @@ https://github.com/hassing/p110monitor
 
 Instalar python:
 
-python -m pip install rich
+python3 -m pip install rich
 
 pip install PyP100
